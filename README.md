@@ -1,6 +1,6 @@
 #### Thành viên:  
-  + Huỳnh Hiếu Nhân - 1712628
-  + Trần Đức Phú - 1712664
+  + Huỳnh Hiếu Nhân - 1712628 - nhanhieuhcmus
+  + Trần Đức Phú - 1712664 - TranPhu1999
   
 #### Đề tài: Dự đoán thời tiết các thành phố lớn   
 
